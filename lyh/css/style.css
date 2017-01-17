@@ -142,10 +142,9 @@
         background:url('../images/head.jpg') no-repeat;
         background-size:100%;
     }
-	.conteee{
-    background:url('../images/head.jpg') no-repeat!important;
-		background-size:100%;
-	
+.conteee {
+    background: url(http://raw.githubusercontent.com/L-Paranoid/liangyuhao/master/lyh/css/../images/head.jpg) no-repeat!important;
+    background-size: 100%!important;
 }
 #contact{
     background-size:100%;
