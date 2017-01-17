@@ -10,6 +10,7 @@
 }
 .conteee{
     background:url('../images/head.jpg') no-repeat!important;
+	
 }
 .footer-section{
     background: transparent!important;
@@ -141,6 +142,11 @@
         background:url('../images/head.jpg') no-repeat;
         background-size:100%;
     }
+	.conteee{
+    background:url('../images/head.jpg') no-repeat!important;
+		background-size:100%;
+	
+}
 #contact{
     background: transparent!important;
     background-size:100%;
