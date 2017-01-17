@@ -144,7 +144,7 @@
     }
 .conteee {
     background: url(http://raw.githubusercontent.com/L-Paranoid/liangyuhao/master/lyh/css/../images/head.jpg) no-repeat!important;
-    background-size: 100%!important;
+    background-size:cover!important;
 }
 #contact{
     background-size:100%;
