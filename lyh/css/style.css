@@ -22,7 +22,7 @@ text-align:left;
     width:25px;
     height:25px;
     border-radius:50%;
-    background:#25B7E0 url('images/dd.png') no-repeat center center;
+    background:#25B7E0 url('../images/dd.png') no-repeat center center;
     background-size:65%;
 }
 
