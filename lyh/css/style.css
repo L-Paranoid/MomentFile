@@ -1,3 +1,56 @@
+.jieshao{
+text-align:left;
+    overflow: hidden;
+}
+.jieshao ul{
+    overflow: hidden;
+}
+.study-section {
+    padding-top: 0!important;
+}
+.jieshao ul li{
+    float: left;
+    list-style-type: none;
+    width:50%;
+    margin:10px 0;
+}
+.jieshao ul li i{
+    margin-right:10px;
+}
+.dd{
+    float: left;
+    width:25px;
+    height:25px;
+    border-radius:50%;
+    background:#25B7E0 url('../images/dd.png') no-repeat center center;
+    background-size:65%;
+}
+
+.sj{
+    float: left;
+    width:25px;
+    height:25px;
+    border-radius:50%;
+    background:#B4BC69 url('../images/sj.png') no-repeat center center;
+    background-size:65%;
+}
+.xl{
+    float: left;
+    width:25px;
+    height:25px;
+    border-radius:50%;
+    background:#D07831 url('../images/xl.png') no-repeat center center;
+    background-size:65%;
+}
+.cs{
+    float: left;
+    width:25px;
+    height:25px;
+    border-radius:50%;
+    background:#46A86D url('../images/cs.png') no-repeat center center;
+    background-size:65%;
+}
+
 .continer{
     background:url('../images/head.jpg') no-repeat;
 }
@@ -142,6 +195,20 @@
         background:url('../images/head.jpg') no-repeat;
         background-size:100%;
     }
+    .jieshao ul{
+        margin-top:30px;
+        text-align: center;
+    }
+    .jieshao ul li{
+        float:none;
+        width:inherit;
+        list-style-type: none;
+        margin: 10px;
+        display: inline-block;
+    }
+    .study-section {
+        padding-top:10px!important;
+}
 .conteee {
     background: url(http://raw.githubusercontent.com/L-Paranoid/liangyuhao/master/lyh/css/../images/head.jpg) no-repeat!important;
     background-size:cover!important;
